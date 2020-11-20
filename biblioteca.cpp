@@ -67,8 +67,24 @@ void biblioteca::afisare() {
     }
 }
 
-carte biblioteca::imprumuta(std::string nume){
+carte* biblioteca::imprumuta(std::string nume){
+    carte* c = NULL;
 
+    for(int i=0; carti_imprumutate.size(); i++){
+        carte carte_i = carti_imprumutate[i];
+        if(carte_i.nume.compare(nume) == 0){
+            return NULL;
+        }
+    }
+
+    for(int i=0; i<nr_carti.size(); i++){
+        carte carte_b = nr_carti[i];
+        if(carte_b.nume.compare(nume) == 0){
+            c = &carte_b;
+            carti_imprumutate.push_back(carte_b);
+        }
+    }
+    return c;
 }
 
 void biblioteca::sortare_id() {

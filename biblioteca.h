@@ -12,6 +12,7 @@
 
 class biblioteca {
      std::vector<carte> nr_carti;
+     std::vector<carte> carti_imprumutate;
 public:
     biblioteca();
 
@@ -22,7 +23,7 @@ public:
      void sortare_id();
      bool add_carte(carte c);
      bool arhivare_carte(carte& c);
-     carte imprumuta(std::string nume);
+     carte* imprumuta(std::string nume);
 
      friend std::ostream& operator << (std::ostream&, biblioteca&);
 };
