@@ -1,0 +1,3 @@
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/cmake-build-debug/CMakeFiles/biblioteca.dir
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"D:\clion\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\biblioteca.dir/objects.a
+"D:\MinGW clion\mingw64\bin\ar.exe" cr CMakeFiles\biblioteca.dir/objects.a @CMakeFiles\biblioteca.dir\objects1.rsp
+"D:\MinGW clion\mingw64\bin\g++.exe" -Wall -Wextra -pedantic -Weffc++ -g   -Wl,--whole-archive CMakeFiles\biblioteca.dir/objects.a -Wl,--no-whole-archive  -o biblioteca.exe -Wl,--out-implib,libbiblioteca.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\biblioteca.dir\linklibs.rsp

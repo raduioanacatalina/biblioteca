@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/biblioteca.cpp
+fstream
+-
+iostream
+-
+algorithm
+-
+biblioteca.h
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/biblioteca.h
+
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/biblioteca.h
+utility
+-
+vector
+-
+carte.h
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/carte.h
+
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/carte.h
+string
+-
+
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/main.cpp
+iostream
+-
+carte.h
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/carte.h
+biblioteca.h
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/biblioteca.h
+
