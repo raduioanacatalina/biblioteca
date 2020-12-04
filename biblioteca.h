@@ -8,11 +8,12 @@
 
 #include <utility>
 #include <vector>
-#include "carte.h"
+#include "Manuscris.h"
+#include <algorithm>
 
 class biblioteca {
-     std::vector<carte> nr_carti;
-     std::vector<carte> carti_imprumutate;
+     std::vector<Manuscris*> nr_carti;
+     std::vector<Manuscris*> carti_imprumutate;
 public:
     biblioteca();
 
@@ -21,9 +22,9 @@ public:
      void citire();
      void afisare();
      void sortare_id();
-     bool add_carte(carte c);
-     bool arhivare_carte(carte& c);
-     carte* imprumuta(std::string nume);
+     bool add_carte(Manuscris* c);
+     bool arhivare_carte(Manuscris* c);
+     Manuscris* imprumuta(std::string nume);
 
      friend std::ostream& operator << (std::ostream&, biblioteca&);
 };

@@ -80,16 +80,76 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/Articol.cpp">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/Articol.h">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/Autor.cpp">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/Autor.h">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/Carte.cpp">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/Carte.h">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieCarteImprumutata.cpp">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieCarteImprumutata.h">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieData.cpp">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieData.h">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieTitluInexistent.cpp">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieTitluInexistent.h">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/Helper.cpp">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/Helper.h">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manga.cpp">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manga.h">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manuscris.cpp">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manuscris.h">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/ManuscrisCuAutor.cpp">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/ManuscrisCuAutor.h">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/Revista.cpp">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/Revista.h">
+			<Option target="biblioteca"/>
+		</Unit>
 		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/biblioteca.cpp">
 			<Option target="biblioteca"/>
 		</Unit>
 		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/biblioteca.h">
-			<Option target="biblioteca"/>
-		</Unit>
-		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/carte.cpp">
-			<Option target="biblioteca"/>
-		</Unit>
-		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/carte.h">
 			<Option target="biblioteca"/>
 		</Unit>
 		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/main.cpp">

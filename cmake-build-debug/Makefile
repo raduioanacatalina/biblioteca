@@ -142,6 +142,303 @@ biblioteca/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/build
 .PHONY : biblioteca/fast
 
+Articol.obj: Articol.cpp.obj
+
+.PHONY : Articol.obj
+
+# target to build an object file
+Articol.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Articol.cpp.obj
+.PHONY : Articol.cpp.obj
+
+Articol.i: Articol.cpp.i
+
+.PHONY : Articol.i
+
+# target to preprocess a source file
+Articol.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Articol.cpp.i
+.PHONY : Articol.cpp.i
+
+Articol.s: Articol.cpp.s
+
+.PHONY : Articol.s
+
+# target to generate assembly for a file
+Articol.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Articol.cpp.s
+.PHONY : Articol.cpp.s
+
+Autor.obj: Autor.cpp.obj
+
+.PHONY : Autor.obj
+
+# target to build an object file
+Autor.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Autor.cpp.obj
+.PHONY : Autor.cpp.obj
+
+Autor.i: Autor.cpp.i
+
+.PHONY : Autor.i
+
+# target to preprocess a source file
+Autor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Autor.cpp.i
+.PHONY : Autor.cpp.i
+
+Autor.s: Autor.cpp.s
+
+.PHONY : Autor.s
+
+# target to generate assembly for a file
+Autor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Autor.cpp.s
+.PHONY : Autor.cpp.s
+
+Carte.obj: Carte.cpp.obj
+
+.PHONY : Carte.obj
+
+# target to build an object file
+Carte.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Carte.cpp.obj
+.PHONY : Carte.cpp.obj
+
+Carte.i: Carte.cpp.i
+
+.PHONY : Carte.i
+
+# target to preprocess a source file
+Carte.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Carte.cpp.i
+.PHONY : Carte.cpp.i
+
+Carte.s: Carte.cpp.s
+
+.PHONY : Carte.s
+
+# target to generate assembly for a file
+Carte.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Carte.cpp.s
+.PHONY : Carte.cpp.s
+
+ExceptieCarteImprumutata.obj: ExceptieCarteImprumutata.cpp.obj
+
+.PHONY : ExceptieCarteImprumutata.obj
+
+# target to build an object file
+ExceptieCarteImprumutata.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/ExceptieCarteImprumutata.cpp.obj
+.PHONY : ExceptieCarteImprumutata.cpp.obj
+
+ExceptieCarteImprumutata.i: ExceptieCarteImprumutata.cpp.i
+
+.PHONY : ExceptieCarteImprumutata.i
+
+# target to preprocess a source file
+ExceptieCarteImprumutata.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/ExceptieCarteImprumutata.cpp.i
+.PHONY : ExceptieCarteImprumutata.cpp.i
+
+ExceptieCarteImprumutata.s: ExceptieCarteImprumutata.cpp.s
+
+.PHONY : ExceptieCarteImprumutata.s
+
+# target to generate assembly for a file
+ExceptieCarteImprumutata.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/ExceptieCarteImprumutata.cpp.s
+.PHONY : ExceptieCarteImprumutata.cpp.s
+
+ExceptieData.obj: ExceptieData.cpp.obj
+
+.PHONY : ExceptieData.obj
+
+# target to build an object file
+ExceptieData.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/ExceptieData.cpp.obj
+.PHONY : ExceptieData.cpp.obj
+
+ExceptieData.i: ExceptieData.cpp.i
+
+.PHONY : ExceptieData.i
+
+# target to preprocess a source file
+ExceptieData.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/ExceptieData.cpp.i
+.PHONY : ExceptieData.cpp.i
+
+ExceptieData.s: ExceptieData.cpp.s
+
+.PHONY : ExceptieData.s
+
+# target to generate assembly for a file
+ExceptieData.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/ExceptieData.cpp.s
+.PHONY : ExceptieData.cpp.s
+
+ExceptieTitluInexistent.obj: ExceptieTitluInexistent.cpp.obj
+
+.PHONY : ExceptieTitluInexistent.obj
+
+# target to build an object file
+ExceptieTitluInexistent.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/ExceptieTitluInexistent.cpp.obj
+.PHONY : ExceptieTitluInexistent.cpp.obj
+
+ExceptieTitluInexistent.i: ExceptieTitluInexistent.cpp.i
+
+.PHONY : ExceptieTitluInexistent.i
+
+# target to preprocess a source file
+ExceptieTitluInexistent.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/ExceptieTitluInexistent.cpp.i
+.PHONY : ExceptieTitluInexistent.cpp.i
+
+ExceptieTitluInexistent.s: ExceptieTitluInexistent.cpp.s
+
+.PHONY : ExceptieTitluInexistent.s
+
+# target to generate assembly for a file
+ExceptieTitluInexistent.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/ExceptieTitluInexistent.cpp.s
+.PHONY : ExceptieTitluInexistent.cpp.s
+
+Helper.obj: Helper.cpp.obj
+
+.PHONY : Helper.obj
+
+# target to build an object file
+Helper.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Helper.cpp.obj
+.PHONY : Helper.cpp.obj
+
+Helper.i: Helper.cpp.i
+
+.PHONY : Helper.i
+
+# target to preprocess a source file
+Helper.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Helper.cpp.i
+.PHONY : Helper.cpp.i
+
+Helper.s: Helper.cpp.s
+
+.PHONY : Helper.s
+
+# target to generate assembly for a file
+Helper.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Helper.cpp.s
+.PHONY : Helper.cpp.s
+
+Manga.obj: Manga.cpp.obj
+
+.PHONY : Manga.obj
+
+# target to build an object file
+Manga.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Manga.cpp.obj
+.PHONY : Manga.cpp.obj
+
+Manga.i: Manga.cpp.i
+
+.PHONY : Manga.i
+
+# target to preprocess a source file
+Manga.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Manga.cpp.i
+.PHONY : Manga.cpp.i
+
+Manga.s: Manga.cpp.s
+
+.PHONY : Manga.s
+
+# target to generate assembly for a file
+Manga.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Manga.cpp.s
+.PHONY : Manga.cpp.s
+
+Manuscris.obj: Manuscris.cpp.obj
+
+.PHONY : Manuscris.obj
+
+# target to build an object file
+Manuscris.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Manuscris.cpp.obj
+.PHONY : Manuscris.cpp.obj
+
+Manuscris.i: Manuscris.cpp.i
+
+.PHONY : Manuscris.i
+
+# target to preprocess a source file
+Manuscris.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Manuscris.cpp.i
+.PHONY : Manuscris.cpp.i
+
+Manuscris.s: Manuscris.cpp.s
+
+.PHONY : Manuscris.s
+
+# target to generate assembly for a file
+Manuscris.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Manuscris.cpp.s
+.PHONY : Manuscris.cpp.s
+
+ManuscrisCuAutor.obj: ManuscrisCuAutor.cpp.obj
+
+.PHONY : ManuscrisCuAutor.obj
+
+# target to build an object file
+ManuscrisCuAutor.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/ManuscrisCuAutor.cpp.obj
+.PHONY : ManuscrisCuAutor.cpp.obj
+
+ManuscrisCuAutor.i: ManuscrisCuAutor.cpp.i
+
+.PHONY : ManuscrisCuAutor.i
+
+# target to preprocess a source file
+ManuscrisCuAutor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/ManuscrisCuAutor.cpp.i
+.PHONY : ManuscrisCuAutor.cpp.i
+
+ManuscrisCuAutor.s: ManuscrisCuAutor.cpp.s
+
+.PHONY : ManuscrisCuAutor.s
+
+# target to generate assembly for a file
+ManuscrisCuAutor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/ManuscrisCuAutor.cpp.s
+.PHONY : ManuscrisCuAutor.cpp.s
+
+Revista.obj: Revista.cpp.obj
+
+.PHONY : Revista.obj
+
+# target to build an object file
+Revista.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Revista.cpp.obj
+.PHONY : Revista.cpp.obj
+
+Revista.i: Revista.cpp.i
+
+.PHONY : Revista.i
+
+# target to preprocess a source file
+Revista.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Revista.cpp.i
+.PHONY : Revista.cpp.i
+
+Revista.s: Revista.cpp.s
+
+.PHONY : Revista.s
+
+# target to generate assembly for a file
+Revista.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Revista.cpp.s
+.PHONY : Revista.cpp.s
+
 biblioteca.obj: biblioteca.cpp.obj
 
 .PHONY : biblioteca.obj
@@ -168,33 +465,6 @@ biblioteca.s: biblioteca.cpp.s
 biblioteca.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/biblioteca.cpp.s
 .PHONY : biblioteca.cpp.s
-
-carte.obj: carte.cpp.obj
-
-.PHONY : carte.obj
-
-# target to build an object file
-carte.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/carte.cpp.obj
-.PHONY : carte.cpp.obj
-
-carte.i: carte.cpp.i
-
-.PHONY : carte.i
-
-# target to preprocess a source file
-carte.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/carte.cpp.i
-.PHONY : carte.cpp.i
-
-carte.s: carte.cpp.s
-
-.PHONY : carte.s
-
-# target to generate assembly for a file
-carte.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/carte.cpp.s
-.PHONY : carte.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -232,12 +502,42 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... biblioteca
+	@echo ... Articol.obj
+	@echo ... Articol.i
+	@echo ... Articol.s
+	@echo ... Autor.obj
+	@echo ... Autor.i
+	@echo ... Autor.s
+	@echo ... Carte.obj
+	@echo ... Carte.i
+	@echo ... Carte.s
+	@echo ... ExceptieCarteImprumutata.obj
+	@echo ... ExceptieCarteImprumutata.i
+	@echo ... ExceptieCarteImprumutata.s
+	@echo ... ExceptieData.obj
+	@echo ... ExceptieData.i
+	@echo ... ExceptieData.s
+	@echo ... ExceptieTitluInexistent.obj
+	@echo ... ExceptieTitluInexistent.i
+	@echo ... ExceptieTitluInexistent.s
+	@echo ... Helper.obj
+	@echo ... Helper.i
+	@echo ... Helper.s
+	@echo ... Manga.obj
+	@echo ... Manga.i
+	@echo ... Manga.s
+	@echo ... Manuscris.obj
+	@echo ... Manuscris.i
+	@echo ... Manuscris.s
+	@echo ... ManuscrisCuAutor.obj
+	@echo ... ManuscrisCuAutor.i
+	@echo ... ManuscrisCuAutor.s
+	@echo ... Revista.obj
+	@echo ... Revista.i
+	@echo ... Revista.s
 	@echo ... biblioteca.obj
 	@echo ... biblioteca.i
 	@echo ... biblioteca.s
-	@echo ... carte.obj
-	@echo ... carte.i
-	@echo ... carte.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

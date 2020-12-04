@@ -93,12 +93,12 @@ clean: CMakeFiles/biblioteca.dir/clean
 CMakeFiles/biblioteca.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Catalina\Desktop\tema_poo\biblioteca\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4 "Built target biblioteca"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Catalina\Desktop\tema_poo\biblioteca\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14 "Built target biblioteca"
 .PHONY : CMakeFiles/biblioteca.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/biblioteca.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Catalina\Desktop\tema_poo\biblioteca\cmake-build-debug\CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Catalina\Desktop\tema_poo\biblioteca\cmake-build-debug\CMakeFiles 14
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/biblioteca.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Catalina\Desktop\tema_poo\biblioteca\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/biblioteca.dir/rule
