@@ -6,9 +6,27 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/Articol.cpp
+Articol.h
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/Articol.h
+
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/Articol.h
+string
+-
+vector
+-
+Autor.h
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/Autor.h
+ManuscrisCuAutor.h
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/ManuscrisCuAutor.h
+
 C:/Users/Catalina/Desktop/tema_poo/biblioteca/Autor.h
 string
 -
+
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/Carte.cpp
+Carte.h
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/Carte.h
 
 C:/Users/Catalina/Desktop/tema_poo/biblioteca/Carte.h
 vector
@@ -32,6 +50,10 @@ C:/Users/Catalina/Desktop/tema_poo/biblioteca/Helper.h
 ctime
 -
 
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manga.cpp
+Manga.h
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manga.h
+
 C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manga.h
 Manuscris.h
 C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manuscris.h
@@ -42,9 +64,27 @@ C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manuscris.h
 string
 -
 
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/ManuscrisCuAutor.cpp
+ManuscrisCuAutor.h
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/ManuscrisCuAutor.h
+
 C:/Users/Catalina/Desktop/tema_poo/biblioteca/ManuscrisCuAutor.h
 Autor.h
 C:/Users/Catalina/Desktop/tema_poo/biblioteca/Autor.h
+Manuscris.h
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manuscris.h
+
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/Revista.cpp
+Revista.h
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/Revista.h
+
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/Revista.h
+vector
+-
+Manuscris.h
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manuscris.h
+Articol.h
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/Articol.h
 
 C:/Users/Catalina/Desktop/tema_poo/biblioteca/biblioteca.h
 utility

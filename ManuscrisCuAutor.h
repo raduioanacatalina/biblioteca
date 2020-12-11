@@ -7,6 +7,7 @@
 
 
 #include "Autor.h"
+#include "Manuscris.h"
 
 class ManuscrisCuAutor {
 public:

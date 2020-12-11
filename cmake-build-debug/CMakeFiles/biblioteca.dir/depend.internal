@@ -5,6 +5,7 @@ CMakeFiles/biblioteca.dir/Articol.cpp.obj
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/Articol.cpp
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/Articol.h
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/Autor.h
+ C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manuscris.h
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/ManuscrisCuAutor.h
 CMakeFiles/biblioteca.dir/Autor.cpp.obj
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/Autor.cpp
@@ -40,6 +41,7 @@ CMakeFiles/biblioteca.dir/Manuscris.cpp.obj
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manuscris.h
 CMakeFiles/biblioteca.dir/ManuscrisCuAutor.cpp.obj
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/Autor.h
+ C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manuscris.h
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/ManuscrisCuAutor.cpp
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/ManuscrisCuAutor.h
 CMakeFiles/biblioteca.dir/Revista.cpp.obj

@@ -4,6 +4,7 @@
 CMakeFiles/biblioteca.dir/Articol.cpp.obj: ../Articol.cpp
 CMakeFiles/biblioteca.dir/Articol.cpp.obj: ../Articol.h
 CMakeFiles/biblioteca.dir/Articol.cpp.obj: ../Autor.h
+CMakeFiles/biblioteca.dir/Articol.cpp.obj: ../Manuscris.h
 CMakeFiles/biblioteca.dir/Articol.cpp.obj: ../ManuscrisCuAutor.h
 
 CMakeFiles/biblioteca.dir/Autor.cpp.obj: ../Autor.cpp
@@ -39,6 +40,7 @@ CMakeFiles/biblioteca.dir/Manuscris.cpp.obj: ../Manuscris.cpp
 CMakeFiles/biblioteca.dir/Manuscris.cpp.obj: ../Manuscris.h
 
 CMakeFiles/biblioteca.dir/ManuscrisCuAutor.cpp.obj: ../Autor.h
+CMakeFiles/biblioteca.dir/ManuscrisCuAutor.cpp.obj: ../Manuscris.h
 CMakeFiles/biblioteca.dir/ManuscrisCuAutor.cpp.obj: ../ManuscrisCuAutor.cpp
 CMakeFiles/biblioteca.dir/ManuscrisCuAutor.cpp.obj: ../ManuscrisCuAutor.h
 
