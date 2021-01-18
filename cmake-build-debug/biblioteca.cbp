@@ -110,10 +110,22 @@
 		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieData.h">
 			<Option target="biblioteca"/>
 		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieTipCarteInvalid.cpp">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieTipCarteInvalid.h">
+			<Option target="biblioteca"/>
+		</Unit>
 		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieTitluInexistent.cpp">
 			<Option target="biblioteca"/>
 		</Unit>
 		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieTitluInexistent.h">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/FactoryManuscrisAutor.cpp">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/FactoryManuscrisAutor.h">
 			<Option target="biblioteca"/>
 		</Unit>
 		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/Helper.cpp">
@@ -144,6 +156,18 @@
 			<Option target="biblioteca"/>
 		</Unit>
 		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/Revista.h">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/Sectiune.cpp">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/Sectiune.h">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/TipManuscris.cpp">
+			<Option target="biblioteca"/>
+		</Unit>
+		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/TipManuscris.h">
 			<Option target="biblioteca"/>
 		</Unit>
 		<Unit filename="C:/Users/Catalina/Desktop/tema_poo/biblioteca/biblioteca.cpp">

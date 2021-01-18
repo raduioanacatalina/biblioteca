@@ -10,8 +10,13 @@
 #include "ManuscrisCuAutor.h"
 
 class Manga : public Manuscris, public ManuscrisCuAutor {
+private:
+    std::vector<Autor*> autori;
+
 public:
     void addAutor(Autor* autor);
+    const std::vector<Autor *> &getAutori() const;
+
 };
 
 

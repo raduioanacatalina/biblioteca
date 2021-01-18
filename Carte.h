@@ -10,6 +10,7 @@
 #include "Autor.h"
 #include "Manuscris.h"
 #include "ManuscrisCuAutor.h"
+#include <iostream>
 
 class Carte : public Manuscris, public ManuscrisCuAutor{
 private:
@@ -24,6 +25,14 @@ public:
     void setAutori(const std::vector<Autor *> &autori);
 
     void addAutor(Autor* autor);
+    friend std::ostream& operator<<(std::ostream& out, const Carte& c){
+        out <<"Carte: titlu = " << c.nume << std::endl;
+        out <<"Autori: "<<std::endl;
+        for(Autor* a : c.getAutori()){
+            out <<"\t\t" << a->getNume() << " " << a->getPrenume()<<std::endl;
+        }
+        return out;
+    }
 };
 
 

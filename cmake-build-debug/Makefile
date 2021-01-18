@@ -277,6 +277,33 @@ ExceptieData.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/ExceptieData.cpp.s
 .PHONY : ExceptieData.cpp.s
 
+ExceptieTipCarteInvalid.obj: ExceptieTipCarteInvalid.cpp.obj
+
+.PHONY : ExceptieTipCarteInvalid.obj
+
+# target to build an object file
+ExceptieTipCarteInvalid.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/ExceptieTipCarteInvalid.cpp.obj
+.PHONY : ExceptieTipCarteInvalid.cpp.obj
+
+ExceptieTipCarteInvalid.i: ExceptieTipCarteInvalid.cpp.i
+
+.PHONY : ExceptieTipCarteInvalid.i
+
+# target to preprocess a source file
+ExceptieTipCarteInvalid.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/ExceptieTipCarteInvalid.cpp.i
+.PHONY : ExceptieTipCarteInvalid.cpp.i
+
+ExceptieTipCarteInvalid.s: ExceptieTipCarteInvalid.cpp.s
+
+.PHONY : ExceptieTipCarteInvalid.s
+
+# target to generate assembly for a file
+ExceptieTipCarteInvalid.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/ExceptieTipCarteInvalid.cpp.s
+.PHONY : ExceptieTipCarteInvalid.cpp.s
+
 ExceptieTitluInexistent.obj: ExceptieTitluInexistent.cpp.obj
 
 .PHONY : ExceptieTitluInexistent.obj
@@ -303,6 +330,33 @@ ExceptieTitluInexistent.s: ExceptieTitluInexistent.cpp.s
 ExceptieTitluInexistent.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/ExceptieTitluInexistent.cpp.s
 .PHONY : ExceptieTitluInexistent.cpp.s
+
+FactoryManuscrisAutor.obj: FactoryManuscrisAutor.cpp.obj
+
+.PHONY : FactoryManuscrisAutor.obj
+
+# target to build an object file
+FactoryManuscrisAutor.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/FactoryManuscrisAutor.cpp.obj
+.PHONY : FactoryManuscrisAutor.cpp.obj
+
+FactoryManuscrisAutor.i: FactoryManuscrisAutor.cpp.i
+
+.PHONY : FactoryManuscrisAutor.i
+
+# target to preprocess a source file
+FactoryManuscrisAutor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/FactoryManuscrisAutor.cpp.i
+.PHONY : FactoryManuscrisAutor.cpp.i
+
+FactoryManuscrisAutor.s: FactoryManuscrisAutor.cpp.s
+
+.PHONY : FactoryManuscrisAutor.s
+
+# target to generate assembly for a file
+FactoryManuscrisAutor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/FactoryManuscrisAutor.cpp.s
+.PHONY : FactoryManuscrisAutor.cpp.s
 
 Helper.obj: Helper.cpp.obj
 
@@ -439,6 +493,60 @@ Revista.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Revista.cpp.s
 .PHONY : Revista.cpp.s
 
+Sectiune.obj: Sectiune.cpp.obj
+
+.PHONY : Sectiune.obj
+
+# target to build an object file
+Sectiune.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Sectiune.cpp.obj
+.PHONY : Sectiune.cpp.obj
+
+Sectiune.i: Sectiune.cpp.i
+
+.PHONY : Sectiune.i
+
+# target to preprocess a source file
+Sectiune.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Sectiune.cpp.i
+.PHONY : Sectiune.cpp.i
+
+Sectiune.s: Sectiune.cpp.s
+
+.PHONY : Sectiune.s
+
+# target to generate assembly for a file
+Sectiune.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/Sectiune.cpp.s
+.PHONY : Sectiune.cpp.s
+
+TipManuscris.obj: TipManuscris.cpp.obj
+
+.PHONY : TipManuscris.obj
+
+# target to build an object file
+TipManuscris.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/TipManuscris.cpp.obj
+.PHONY : TipManuscris.cpp.obj
+
+TipManuscris.i: TipManuscris.cpp.i
+
+.PHONY : TipManuscris.i
+
+# target to preprocess a source file
+TipManuscris.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/TipManuscris.cpp.i
+.PHONY : TipManuscris.cpp.i
+
+TipManuscris.s: TipManuscris.cpp.s
+
+.PHONY : TipManuscris.s
+
+# target to generate assembly for a file
+TipManuscris.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biblioteca.dir\build.make CMakeFiles/biblioteca.dir/TipManuscris.cpp.s
+.PHONY : TipManuscris.cpp.s
+
 biblioteca.obj: biblioteca.cpp.obj
 
 .PHONY : biblioteca.obj
@@ -517,9 +625,15 @@ help:
 	@echo ... ExceptieData.obj
 	@echo ... ExceptieData.i
 	@echo ... ExceptieData.s
+	@echo ... ExceptieTipCarteInvalid.obj
+	@echo ... ExceptieTipCarteInvalid.i
+	@echo ... ExceptieTipCarteInvalid.s
 	@echo ... ExceptieTitluInexistent.obj
 	@echo ... ExceptieTitluInexistent.i
 	@echo ... ExceptieTitluInexistent.s
+	@echo ... FactoryManuscrisAutor.obj
+	@echo ... FactoryManuscrisAutor.i
+	@echo ... FactoryManuscrisAutor.s
 	@echo ... Helper.obj
 	@echo ... Helper.i
 	@echo ... Helper.s
@@ -535,6 +649,12 @@ help:
 	@echo ... Revista.obj
 	@echo ... Revista.i
 	@echo ... Revista.s
+	@echo ... Sectiune.obj
+	@echo ... Sectiune.i
+	@echo ... Sectiune.s
+	@echo ... TipManuscris.obj
+	@echo ... TipManuscris.i
+	@echo ... TipManuscris.s
 	@echo ... biblioteca.obj
 	@echo ... biblioteca.i
 	@echo ... biblioteca.s

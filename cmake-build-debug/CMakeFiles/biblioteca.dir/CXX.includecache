@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Catalina/Desktop/tema_poo/biblioteca/Articol.cpp
-Articol.h
 C:/Users/Catalina/Desktop/tema_poo/biblioteca/Articol.h
-
-C:/Users/Catalina/Desktop/tema_poo/biblioteca/Articol.h
+iostream
+-
 string
 -
 vector
@@ -23,10 +21,6 @@ C:/Users/Catalina/Desktop/tema_poo/biblioteca/ManuscrisCuAutor.h
 C:/Users/Catalina/Desktop/tema_poo/biblioteca/Autor.h
 string
 -
-
-C:/Users/Catalina/Desktop/tema_poo/biblioteca/Carte.cpp
-Carte.h
-C:/Users/Catalina/Desktop/tema_poo/biblioteca/Carte.h
 
 C:/Users/Catalina/Desktop/tema_poo/biblioteca/Carte.h
 vector
@@ -37,8 +31,14 @@ Manuscris.h
 C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manuscris.h
 ManuscrisCuAutor.h
 C:/Users/Catalina/Desktop/tema_poo/biblioteca/ManuscrisCuAutor.h
+iostream
+-
 
 C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieCarteImprumutata.h
+exception
+-
+
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieTipCarteInvalid.h
 exception
 -
 
@@ -46,11 +46,21 @@ C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieTitluInexistent.h
 exception
 -
 
-C:/Users/Catalina/Desktop/tema_poo/biblioteca/Helper.h
-ctime
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/FactoryManuscrisAutor.h
+ManuscrisCuAutor.h
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/ManuscrisCuAutor.h
+TipManuscris.h
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/TipManuscris.h
+ExceptieTipCarteInvalid.h
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieTipCarteInvalid.h
+Carte.h
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/Carte.h
+Articol.h
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/Articol.h
+vector
 -
-
-C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manga.cpp
+Autor.h
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/Autor.h
 Manga.h
 C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manga.h
 
@@ -64,27 +74,25 @@ C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manuscris.h
 string
 -
 
-C:/Users/Catalina/Desktop/tema_poo/biblioteca/ManuscrisCuAutor.cpp
-ManuscrisCuAutor.h
-C:/Users/Catalina/Desktop/tema_poo/biblioteca/ManuscrisCuAutor.h
-
 C:/Users/Catalina/Desktop/tema_poo/biblioteca/ManuscrisCuAutor.h
 Autor.h
 C:/Users/Catalina/Desktop/tema_poo/biblioteca/Autor.h
 Manuscris.h
 C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manuscris.h
-
-C:/Users/Catalina/Desktop/tema_poo/biblioteca/Revista.cpp
-Revista.h
-C:/Users/Catalina/Desktop/tema_poo/biblioteca/Revista.h
-
-C:/Users/Catalina/Desktop/tema_poo/biblioteca/Revista.h
+iostream
+-
 vector
 -
-Manuscris.h
-C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manuscris.h
-Articol.h
-C:/Users/Catalina/Desktop/tema_poo/biblioteca/Articol.h
+
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/Sectiune.h
+iostream
+-
+string
+-
+vector
+-
+
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/TipManuscris.h
 
 C:/Users/Catalina/Desktop/tema_poo/biblioteca/biblioteca.h
 utility
@@ -105,16 +113,16 @@ biblioteca.h
 C:/Users/Catalina/Desktop/tema_poo/biblioteca/biblioteca.h
 Carte.h
 C:/Users/Catalina/Desktop/tema_poo/biblioteca/Carte.h
-Manga.h
-C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manga.h
-Helper.h
-C:/Users/Catalina/Desktop/tema_poo/biblioteca/Helper.h
 ExceptieTitluInexistent.h
 C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieTitluInexistent.h
 ExceptieCarteImprumutata.h
 C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieCarteImprumutata.h
-utility
--
+TipManuscris.h
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/TipManuscris.h
+FactoryManuscrisAutor.h
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/FactoryManuscrisAutor.h
+Sectiune.h
+C:/Users/Catalina/Desktop/tema_poo/biblioteca/Sectiune.h
 memory
 -
 

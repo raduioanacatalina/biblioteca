@@ -34,3 +34,14 @@ void Autor::setAnNastere(int anNastere) {
     }
     an_nastere = anNastere;
 }
+
+Autor::Autor() {
+
+}
+
+Autor::Autor(std::string nume, std::string prenume, int an_nastere) {
+    this->nume = nume;
+    this->prenume = prenume;
+    this->an_nastere = an_nastere;
+
+}

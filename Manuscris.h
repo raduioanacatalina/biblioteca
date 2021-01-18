@@ -10,8 +10,11 @@
 
 class Manuscris {
 //    std::string categorie;
+protected:
     std::string nume;
     int an_aparitie;
+    int id;
+    friend class biblioteca;
 public:
     int getAnAparitie() const;
 
@@ -24,16 +27,14 @@ public:
     void setNume(std::string nume){
         this->nume = nume;
     }
-private:
-    int id{};
-    friend class biblioteca;
+
 public:
 
     Manuscris();
 
     Manuscris(const std::string &nume, int id);
 
-    ~Manuscris();
+    virtual ~Manuscris();
 
     bool operator==(const Manuscris &rhs) const;
 

@@ -14,6 +14,8 @@ private:
     std::string prenume;
     int an_nastere;
 public:
+    Autor();
+    Autor(std::string nume, std::string prenume, int an_nastere);
     int getAnNastere() const;
 
     void setAnNastere(int anNastere);

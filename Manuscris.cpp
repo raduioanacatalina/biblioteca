@@ -5,9 +5,9 @@
 #include <iostream>
 #include "Manuscris.h"
 
-Manuscris::Manuscris(const std::string &nume, int id) {
-    this->nume = nume;
-    this->id = id;
+Manuscris::Manuscris(const std::string &nume, int id) : nume(nume), id(id), an_aparitie(0) {
+//    this->nume = nume;
+//    this->id = id;
 }
 
 Manuscris::~Manuscris() {
@@ -19,7 +19,7 @@ bool Manuscris::operator==(const Manuscris &rhs) const {
            id == rhs.id;
 }
 
-Manuscris::Manuscris() {
+Manuscris::Manuscris() : nume("") {
    std::cout<<"Apeld construcotr"<<'\n';
 }
 

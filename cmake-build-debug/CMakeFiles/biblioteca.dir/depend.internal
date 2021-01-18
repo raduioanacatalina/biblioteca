@@ -24,9 +24,23 @@ CMakeFiles/biblioteca.dir/ExceptieCarteImprumutata.cpp.obj
 CMakeFiles/biblioteca.dir/ExceptieData.cpp.obj
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieData.cpp
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieData.h
+CMakeFiles/biblioteca.dir/ExceptieTipCarteInvalid.cpp.obj
+ C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieTipCarteInvalid.cpp
+ C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieTipCarteInvalid.h
 CMakeFiles/biblioteca.dir/ExceptieTitluInexistent.cpp.obj
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieTitluInexistent.cpp
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieTitluInexistent.h
+CMakeFiles/biblioteca.dir/FactoryManuscrisAutor.cpp.obj
+ C:/Users/Catalina/Desktop/tema_poo/biblioteca/Articol.h
+ C:/Users/Catalina/Desktop/tema_poo/biblioteca/Autor.h
+ C:/Users/Catalina/Desktop/tema_poo/biblioteca/Carte.h
+ C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieTipCarteInvalid.h
+ C:/Users/Catalina/Desktop/tema_poo/biblioteca/FactoryManuscrisAutor.cpp
+ C:/Users/Catalina/Desktop/tema_poo/biblioteca/FactoryManuscrisAutor.h
+ C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manga.h
+ C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manuscris.h
+ C:/Users/Catalina/Desktop/tema_poo/biblioteca/ManuscrisCuAutor.h
+ C:/Users/Catalina/Desktop/tema_poo/biblioteca/TipManuscris.h
 CMakeFiles/biblioteca.dir/Helper.cpp.obj
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/Helper.cpp
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/Helper.h
@@ -51,6 +65,12 @@ CMakeFiles/biblioteca.dir/Revista.cpp.obj
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/ManuscrisCuAutor.h
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/Revista.cpp
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/Revista.h
+CMakeFiles/biblioteca.dir/Sectiune.cpp.obj
+ C:/Users/Catalina/Desktop/tema_poo/biblioteca/Sectiune.cpp
+ C:/Users/Catalina/Desktop/tema_poo/biblioteca/Sectiune.h
+CMakeFiles/biblioteca.dir/TipManuscris.cpp.obj
+ C:/Users/Catalina/Desktop/tema_poo/biblioteca/TipManuscris.cpp
+ C:/Users/Catalina/Desktop/tema_poo/biblioteca/TipManuscris.h
 CMakeFiles/biblioteca.dir/biblioteca.cpp.obj
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieCarteImprumutata.h
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieTitluInexistent.h
@@ -58,13 +78,17 @@ CMakeFiles/biblioteca.dir/biblioteca.cpp.obj
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/biblioteca.cpp
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/biblioteca.h
 CMakeFiles/biblioteca.dir/main.cpp.obj
+ C:/Users/Catalina/Desktop/tema_poo/biblioteca/Articol.h
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/Autor.h
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/Carte.h
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieCarteImprumutata.h
+ C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieTipCarteInvalid.h
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/ExceptieTitluInexistent.h
- C:/Users/Catalina/Desktop/tema_poo/biblioteca/Helper.h
+ C:/Users/Catalina/Desktop/tema_poo/biblioteca/FactoryManuscrisAutor.h
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manga.h
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/Manuscris.h
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/ManuscrisCuAutor.h
+ C:/Users/Catalina/Desktop/tema_poo/biblioteca/Sectiune.h
+ C:/Users/Catalina/Desktop/tema_poo/biblioteca/TipManuscris.h
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/biblioteca.h
  C:/Users/Catalina/Desktop/tema_poo/biblioteca/main.cpp

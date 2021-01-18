@@ -245,6 +245,58 @@ CMakeFiles/biblioteca.dir/ExceptieCarteImprumutata.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/biblioteca.dir/ExceptieCarteImprumutata.cpp.s"
 	"D:\MinGW clion\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Catalina\Desktop\tema_poo\biblioteca\ExceptieCarteImprumutata.cpp -o CMakeFiles\biblioteca.dir\ExceptieCarteImprumutata.cpp.s
 
+CMakeFiles/biblioteca.dir/FactoryManuscrisAutor.cpp.obj: CMakeFiles/biblioteca.dir/flags.make
+CMakeFiles/biblioteca.dir/FactoryManuscrisAutor.cpp.obj: ../FactoryManuscrisAutor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Catalina\Desktop\tema_poo\biblioteca\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/biblioteca.dir/FactoryManuscrisAutor.cpp.obj"
+	"D:\MinGW clion\mingw64\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\biblioteca.dir\FactoryManuscrisAutor.cpp.obj -c C:\Users\Catalina\Desktop\tema_poo\biblioteca\FactoryManuscrisAutor.cpp
+
+CMakeFiles/biblioteca.dir/FactoryManuscrisAutor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/biblioteca.dir/FactoryManuscrisAutor.cpp.i"
+	"D:\MinGW clion\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Catalina\Desktop\tema_poo\biblioteca\FactoryManuscrisAutor.cpp > CMakeFiles\biblioteca.dir\FactoryManuscrisAutor.cpp.i
+
+CMakeFiles/biblioteca.dir/FactoryManuscrisAutor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/biblioteca.dir/FactoryManuscrisAutor.cpp.s"
+	"D:\MinGW clion\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Catalina\Desktop\tema_poo\biblioteca\FactoryManuscrisAutor.cpp -o CMakeFiles\biblioteca.dir\FactoryManuscrisAutor.cpp.s
+
+CMakeFiles/biblioteca.dir/TipManuscris.cpp.obj: CMakeFiles/biblioteca.dir/flags.make
+CMakeFiles/biblioteca.dir/TipManuscris.cpp.obj: ../TipManuscris.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Catalina\Desktop\tema_poo\biblioteca\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/biblioteca.dir/TipManuscris.cpp.obj"
+	"D:\MinGW clion\mingw64\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\biblioteca.dir\TipManuscris.cpp.obj -c C:\Users\Catalina\Desktop\tema_poo\biblioteca\TipManuscris.cpp
+
+CMakeFiles/biblioteca.dir/TipManuscris.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/biblioteca.dir/TipManuscris.cpp.i"
+	"D:\MinGW clion\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Catalina\Desktop\tema_poo\biblioteca\TipManuscris.cpp > CMakeFiles\biblioteca.dir\TipManuscris.cpp.i
+
+CMakeFiles/biblioteca.dir/TipManuscris.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/biblioteca.dir/TipManuscris.cpp.s"
+	"D:\MinGW clion\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Catalina\Desktop\tema_poo\biblioteca\TipManuscris.cpp -o CMakeFiles\biblioteca.dir\TipManuscris.cpp.s
+
+CMakeFiles/biblioteca.dir/ExceptieTipCarteInvalid.cpp.obj: CMakeFiles/biblioteca.dir/flags.make
+CMakeFiles/biblioteca.dir/ExceptieTipCarteInvalid.cpp.obj: ../ExceptieTipCarteInvalid.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Catalina\Desktop\tema_poo\biblioteca\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/biblioteca.dir/ExceptieTipCarteInvalid.cpp.obj"
+	"D:\MinGW clion\mingw64\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\biblioteca.dir\ExceptieTipCarteInvalid.cpp.obj -c C:\Users\Catalina\Desktop\tema_poo\biblioteca\ExceptieTipCarteInvalid.cpp
+
+CMakeFiles/biblioteca.dir/ExceptieTipCarteInvalid.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/biblioteca.dir/ExceptieTipCarteInvalid.cpp.i"
+	"D:\MinGW clion\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Catalina\Desktop\tema_poo\biblioteca\ExceptieTipCarteInvalid.cpp > CMakeFiles\biblioteca.dir\ExceptieTipCarteInvalid.cpp.i
+
+CMakeFiles/biblioteca.dir/ExceptieTipCarteInvalid.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/biblioteca.dir/ExceptieTipCarteInvalid.cpp.s"
+	"D:\MinGW clion\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Catalina\Desktop\tema_poo\biblioteca\ExceptieTipCarteInvalid.cpp -o CMakeFiles\biblioteca.dir\ExceptieTipCarteInvalid.cpp.s
+
+CMakeFiles/biblioteca.dir/Sectiune.cpp.obj: CMakeFiles/biblioteca.dir/flags.make
+CMakeFiles/biblioteca.dir/Sectiune.cpp.obj: ../Sectiune.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Catalina\Desktop\tema_poo\biblioteca\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/biblioteca.dir/Sectiune.cpp.obj"
+	"D:\MinGW clion\mingw64\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\biblioteca.dir\Sectiune.cpp.obj -c C:\Users\Catalina\Desktop\tema_poo\biblioteca\Sectiune.cpp
+
+CMakeFiles/biblioteca.dir/Sectiune.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/biblioteca.dir/Sectiune.cpp.i"
+	"D:\MinGW clion\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Catalina\Desktop\tema_poo\biblioteca\Sectiune.cpp > CMakeFiles\biblioteca.dir\Sectiune.cpp.i
+
+CMakeFiles/biblioteca.dir/Sectiune.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/biblioteca.dir/Sectiune.cpp.s"
+	"D:\MinGW clion\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Catalina\Desktop\tema_poo\biblioteca\Sectiune.cpp -o CMakeFiles\biblioteca.dir\Sectiune.cpp.s
+
 # Object files for target biblioteca
 biblioteca_OBJECTS = \
 "CMakeFiles/biblioteca.dir/main.cpp.obj" \
@@ -259,7 +311,11 @@ biblioteca_OBJECTS = \
 "CMakeFiles/biblioteca.dir/Helper.cpp.obj" \
 "CMakeFiles/biblioteca.dir/ExceptieData.cpp.obj" \
 "CMakeFiles/biblioteca.dir/ExceptieTitluInexistent.cpp.obj" \
-"CMakeFiles/biblioteca.dir/ExceptieCarteImprumutata.cpp.obj"
+"CMakeFiles/biblioteca.dir/ExceptieCarteImprumutata.cpp.obj" \
+"CMakeFiles/biblioteca.dir/FactoryManuscrisAutor.cpp.obj" \
+"CMakeFiles/biblioteca.dir/TipManuscris.cpp.obj" \
+"CMakeFiles/biblioteca.dir/ExceptieTipCarteInvalid.cpp.obj" \
+"CMakeFiles/biblioteca.dir/Sectiune.cpp.obj"
 
 # External object files for target biblioteca
 biblioteca_EXTERNAL_OBJECTS =
@@ -277,11 +333,15 @@ biblioteca.exe: CMakeFiles/biblioteca.dir/Helper.cpp.obj
 biblioteca.exe: CMakeFiles/biblioteca.dir/ExceptieData.cpp.obj
 biblioteca.exe: CMakeFiles/biblioteca.dir/ExceptieTitluInexistent.cpp.obj
 biblioteca.exe: CMakeFiles/biblioteca.dir/ExceptieCarteImprumutata.cpp.obj
+biblioteca.exe: CMakeFiles/biblioteca.dir/FactoryManuscrisAutor.cpp.obj
+biblioteca.exe: CMakeFiles/biblioteca.dir/TipManuscris.cpp.obj
+biblioteca.exe: CMakeFiles/biblioteca.dir/ExceptieTipCarteInvalid.cpp.obj
+biblioteca.exe: CMakeFiles/biblioteca.dir/Sectiune.cpp.obj
 biblioteca.exe: CMakeFiles/biblioteca.dir/build.make
 biblioteca.exe: CMakeFiles/biblioteca.dir/linklibs.rsp
 biblioteca.exe: CMakeFiles/biblioteca.dir/objects1.rsp
 biblioteca.exe: CMakeFiles/biblioteca.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Catalina\Desktop\tema_poo\biblioteca\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable biblioteca.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Catalina\Desktop\tema_poo\biblioteca\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Linking CXX executable biblioteca.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\biblioteca.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

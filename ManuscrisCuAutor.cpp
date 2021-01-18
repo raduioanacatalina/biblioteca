@@ -3,3 +3,7 @@
 //
 
 #include "ManuscrisCuAutor.h"
+
+ManuscrisCuAutor::~ManuscrisCuAutor() {
+
+}

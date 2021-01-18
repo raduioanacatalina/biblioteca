@@ -24,8 +24,22 @@ CMakeFiles/biblioteca.dir/ExceptieCarteImprumutata.cpp.obj: ../ExceptieCarteImpr
 CMakeFiles/biblioteca.dir/ExceptieData.cpp.obj: ../ExceptieData.cpp
 CMakeFiles/biblioteca.dir/ExceptieData.cpp.obj: ../ExceptieData.h
 
+CMakeFiles/biblioteca.dir/ExceptieTipCarteInvalid.cpp.obj: ../ExceptieTipCarteInvalid.cpp
+CMakeFiles/biblioteca.dir/ExceptieTipCarteInvalid.cpp.obj: ../ExceptieTipCarteInvalid.h
+
 CMakeFiles/biblioteca.dir/ExceptieTitluInexistent.cpp.obj: ../ExceptieTitluInexistent.cpp
 CMakeFiles/biblioteca.dir/ExceptieTitluInexistent.cpp.obj: ../ExceptieTitluInexistent.h
+
+CMakeFiles/biblioteca.dir/FactoryManuscrisAutor.cpp.obj: ../Articol.h
+CMakeFiles/biblioteca.dir/FactoryManuscrisAutor.cpp.obj: ../Autor.h
+CMakeFiles/biblioteca.dir/FactoryManuscrisAutor.cpp.obj: ../Carte.h
+CMakeFiles/biblioteca.dir/FactoryManuscrisAutor.cpp.obj: ../ExceptieTipCarteInvalid.h
+CMakeFiles/biblioteca.dir/FactoryManuscrisAutor.cpp.obj: ../FactoryManuscrisAutor.cpp
+CMakeFiles/biblioteca.dir/FactoryManuscrisAutor.cpp.obj: ../FactoryManuscrisAutor.h
+CMakeFiles/biblioteca.dir/FactoryManuscrisAutor.cpp.obj: ../Manga.h
+CMakeFiles/biblioteca.dir/FactoryManuscrisAutor.cpp.obj: ../Manuscris.h
+CMakeFiles/biblioteca.dir/FactoryManuscrisAutor.cpp.obj: ../ManuscrisCuAutor.h
+CMakeFiles/biblioteca.dir/FactoryManuscrisAutor.cpp.obj: ../TipManuscris.h
 
 CMakeFiles/biblioteca.dir/Helper.cpp.obj: ../Helper.cpp
 CMakeFiles/biblioteca.dir/Helper.cpp.obj: ../Helper.h
@@ -51,20 +65,30 @@ CMakeFiles/biblioteca.dir/Revista.cpp.obj: ../ManuscrisCuAutor.h
 CMakeFiles/biblioteca.dir/Revista.cpp.obj: ../Revista.cpp
 CMakeFiles/biblioteca.dir/Revista.cpp.obj: ../Revista.h
 
+CMakeFiles/biblioteca.dir/Sectiune.cpp.obj: ../Sectiune.cpp
+CMakeFiles/biblioteca.dir/Sectiune.cpp.obj: ../Sectiune.h
+
+CMakeFiles/biblioteca.dir/TipManuscris.cpp.obj: ../TipManuscris.cpp
+CMakeFiles/biblioteca.dir/TipManuscris.cpp.obj: ../TipManuscris.h
+
 CMakeFiles/biblioteca.dir/biblioteca.cpp.obj: ../ExceptieCarteImprumutata.h
 CMakeFiles/biblioteca.dir/biblioteca.cpp.obj: ../ExceptieTitluInexistent.h
 CMakeFiles/biblioteca.dir/biblioteca.cpp.obj: ../Manuscris.h
 CMakeFiles/biblioteca.dir/biblioteca.cpp.obj: ../biblioteca.cpp
 CMakeFiles/biblioteca.dir/biblioteca.cpp.obj: ../biblioteca.h
 
+CMakeFiles/biblioteca.dir/main.cpp.obj: ../Articol.h
 CMakeFiles/biblioteca.dir/main.cpp.obj: ../Autor.h
 CMakeFiles/biblioteca.dir/main.cpp.obj: ../Carte.h
 CMakeFiles/biblioteca.dir/main.cpp.obj: ../ExceptieCarteImprumutata.h
+CMakeFiles/biblioteca.dir/main.cpp.obj: ../ExceptieTipCarteInvalid.h
 CMakeFiles/biblioteca.dir/main.cpp.obj: ../ExceptieTitluInexistent.h
-CMakeFiles/biblioteca.dir/main.cpp.obj: ../Helper.h
+CMakeFiles/biblioteca.dir/main.cpp.obj: ../FactoryManuscrisAutor.h
 CMakeFiles/biblioteca.dir/main.cpp.obj: ../Manga.h
 CMakeFiles/biblioteca.dir/main.cpp.obj: ../Manuscris.h
 CMakeFiles/biblioteca.dir/main.cpp.obj: ../ManuscrisCuAutor.h
+CMakeFiles/biblioteca.dir/main.cpp.obj: ../Sectiune.h
+CMakeFiles/biblioteca.dir/main.cpp.obj: ../TipManuscris.h
 CMakeFiles/biblioteca.dir/main.cpp.obj: ../biblioteca.h
 CMakeFiles/biblioteca.dir/main.cpp.obj: ../main.cpp
 

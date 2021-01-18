@@ -30,3 +30,11 @@ Articol::~Articol() {
         delete this->autori[i];
     }
 }
+
+Articol::Articol() {
+
+}
+
+Articol::Articol(std::string titlu, std::vector<Autor *> autori) : titlu(titlu), autori(autori){
+
+}
